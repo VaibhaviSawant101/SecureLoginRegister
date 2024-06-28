@@ -1,0 +1,6 @@
+#res.cookie()
+-used to set cookie on the clients browser.
+-cookies are small part of data stored on the client side and send back to server
+-they are often used to maintain session info or track user activity
+
+res.cookie('nameOfCookie', valueOfCookie, [options])
